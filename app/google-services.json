@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "372421133791",
+    "firebase_url": "https://flashcharand.firebaseio.com",
+    "project_id": "flashcharand",
+    "storage_bucket": "flashcharand.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372421133791:android:41d8ad4cddb8bd5f",
+        "android_client_info": {
+          "package_name": "com.emma.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372421133791-suof5o9st8jjkl4ur9ssp5jsjl44begu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVKOTvG1abQrBAJ24WKColoQwFABEmEvg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
